@@ -1,0 +1,12 @@
+<div class="banner-small" style="background-image: url(https://unsplash.it/2000/500/?random);"></div>
+
+<div class="container padded">
+<% flat = data.flats[owner] %>
+
+<!-- Inject flat data in template -->
+<%= image_tag flat.owner_picture, class: "avatar" %>
+<h1><%= flat.owner_name %></h1>
+<p><%= flat.description %></p>
+<p><%= flat.city %></p>
+
+</div>

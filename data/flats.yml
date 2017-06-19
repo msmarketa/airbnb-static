@@ -1,0 +1,27 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue.
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpeg
+  owner_picture: images/romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  description: This two bedroom appartment lodges 5 people. Located in the city center, in a calm traditional residential.
+  wifi: false
+anne:
+  owner_name: Anne
+  picture: images/card-brussels.jpeg
+  owner_picture: images/anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  city: Brussels, Belgium
+  description: This one bedroom apt lodges 3 people. It is located in the city center, in a bustling area.
+  wifi: true
